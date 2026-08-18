@@ -1,6 +1,6 @@
 # SmartCalculator
 
-##El proyecto se ha estructurado en base a una aplicación web con tres paginas interconectadas:
+## El proyecto se ha estructurado en base a una aplicación web con tres paginas interconectadas:
 
 La pagina de inicio que es el index.html  que es practicamente la presentación del sistema.
 La pagina cal_consumo_electronico.html es donde podremos encontrar las herramientas para poder calcular o 
