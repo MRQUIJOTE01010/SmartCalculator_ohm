@@ -1,4 +1,4 @@
-#SmartCalculator
+# SmartCalculator
 
 ##El proyecto se ha estructurado en base a una aplicación web con tres paginas interconectadas:
 
